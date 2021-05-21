@@ -1,4 +1,4 @@
-# mood_master
+# mood
 The code for MOOD(MICCAI 2020) 
 
   Biomedical image computing is a valuable but challenging task, which still largely depends on the availability of annotated training sets. However, labeling specific training data in advance is not only time-consuming but also labor-intensive in real applications. Furthermore, the out-of-distribution samples make the biomedical image analysis task more difficult.  
